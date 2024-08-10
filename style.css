@@ -1,0 +1,16 @@
+.title {
+    background-color: darkslategrey;
+    color: white;
+    font-size: 48px;
+    font-weight: bolder;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.list {
+    background-color: beige;
+    text-align:left;
+    font-weight: bold;
+    color: black;
+    font-size: 30px;
+    font-family: 'Lucinda Handwriting', cursive;
+}
